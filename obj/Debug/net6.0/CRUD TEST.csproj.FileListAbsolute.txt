@@ -1,0 +1,38 @@
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\appsettings.json
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\CRUD TEST.exe
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\CRUD TEST.deps.json
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\CRUD TEST.runtimeconfig.json
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\CRUD TEST.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\CRUD TEST.pdb
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.csproj.AssemblyReference.cache
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.AssemblyInfoInputs.cache
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.AssemblyInfo.cs
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.csproj.CoreCompileInputs.cache
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\scopedcss\bundle\CRUD TEST.styles.css
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.csproj.CopyComplete
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\refint\CRUD TEST.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.pdb
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\CRUD TEST.genruntimeconfig.cache
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\obj\Debug\net6.0\ref\CRUD TEST.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\Snappier.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Shehan\source\repos\CRUD TEST\CRUD TEST\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
